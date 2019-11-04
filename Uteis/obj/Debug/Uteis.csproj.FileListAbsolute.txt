@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\Uteis\bin\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\Uteis\bin\Debug\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\Uteis\obj\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\Uteis\obj\Debug\Uteis.pdb

@@ -1,0 +1,212 @@
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll.config
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe.config
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.rsp
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.exe
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.rsp
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe.config
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.rsp
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll.config
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll.config
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll.config
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.WEB.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\bin\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.WEB\obj\Debug\ControleFuncionarios.WEB.pdb

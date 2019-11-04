@@ -1,0 +1,57 @@
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.pdb
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csprojResolveAssemblyReference.cache
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.dll
+C:\Users\maria\Desktop\dotNet\curso\Projetos\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.BLL.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Conexao.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\bin\Debug\Uteis.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.csproj.CopyComplete
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.BLL\obj\Debug\ControleFuncionarios.BLL.pdb

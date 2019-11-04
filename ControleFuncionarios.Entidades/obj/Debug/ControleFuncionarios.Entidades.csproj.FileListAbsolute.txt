@@ -1,0 +1,21 @@
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Refazendoaula\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\Temas Projeto\Semana setembro\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\bin\Debug\ControleFuncionarios.Entidades.pdb
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.dll
+C:\Users\USER\Desktop\Marianne\CURSO C# .NET\ProjetoControleFuncionarios\ProjetoControleFuncionarios\ControleFuncionarios.Entidades\obj\Debug\ControleFuncionarios.Entidades.pdb

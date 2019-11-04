@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Modelagem", "0 - Modelagem", "{2F0A966A-B871-4853-BCA9-EC73D6AC6311}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Sistema", "1 - Sistema", "{984A4AAD-54A4-4537-84EC-E143296EB355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - Camada de Apresentação", "1.1 - Camada de Apresentação", "{F1D63560-E13D-4F49-8724-811520F7C760}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 - Camada de Regras de Negócio", "1.2 - Camada de Regras de Negócio", "{7B5B8265-0C18-4F1B-8BE6-011C7EF50893}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 - Camada de Acesso a Dados", "1.3 - Camada de Acesso a Dados", "{B37E8CF5-6DAC-424B-8713-47D57A5DDE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionarios.Entidades", "ControleFuncionarios.Entidades\ControleFuncionarios.Entidades.csproj", "{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionarios.WEB", "ControleFuncionarios.WEB\ControleFuncionarios.WEB.csproj", "{3B18512C-4960-440B-A53F-5292397B95E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionarios.DAL", "Conexao\ControleFuncionarios.DAL.csproj", "{A876EF43-416E-401E-9E41-3E4D3806A5A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4 - Utilitarios", "1.4 - Utilitarios", "{1F51D844-17BD-472F-B61B-3CF68CF29B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionarios.BLL", "ControleFuncionarios.BLL\ControleFuncionarios.BLL.csproj", "{1838AF86-C90D-4CD1-916C-A61C1847B126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFuncionarios.Uteis", "Uteis\ControleFuncionarios.Uteis.csproj", "{AA1510C2-3D28-462E-A0AF-0C0607D75C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B18512C-4960-440B-A53F-5292397B95E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B18512C-4960-440B-A53F-5292397B95E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B18512C-4960-440B-A53F-5292397B95E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B18512C-4960-440B-A53F-5292397B95E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A876EF43-416E-401E-9E41-3E4D3806A5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A876EF43-416E-401E-9E41-3E4D3806A5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A876EF43-416E-401E-9E41-3E4D3806A5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A876EF43-416E-401E-9E41-3E4D3806A5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1838AF86-C90D-4CD1-916C-A61C1847B126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1838AF86-C90D-4CD1-916C-A61C1847B126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1838AF86-C90D-4CD1-916C-A61C1847B126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1838AF86-C90D-4CD1-916C-A61C1847B126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1510C2-3D28-462E-A0AF-0C0607D75C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1510C2-3D28-462E-A0AF-0C0607D75C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1510C2-3D28-462E-A0AF-0C0607D75C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1510C2-3D28-462E-A0AF-0C0607D75C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1D63560-E13D-4F49-8724-811520F7C760} = {984A4AAD-54A4-4537-84EC-E143296EB355}
+		{7B5B8265-0C18-4F1B-8BE6-011C7EF50893} = {984A4AAD-54A4-4537-84EC-E143296EB355}
+		{B37E8CF5-6DAC-424B-8713-47D57A5DDE9A} = {984A4AAD-54A4-4537-84EC-E143296EB355}
+		{B3D6118D-C2C3-4F1B-AF43-3E09DB520F2D} = {2F0A966A-B871-4853-BCA9-EC73D6AC6311}
+		{3B18512C-4960-440B-A53F-5292397B95E7} = {F1D63560-E13D-4F49-8724-811520F7C760}
+		{A876EF43-416E-401E-9E41-3E4D3806A5A6} = {B37E8CF5-6DAC-424B-8713-47D57A5DDE9A}
+		{1F51D844-17BD-472F-B61B-3CF68CF29B33} = {984A4AAD-54A4-4537-84EC-E143296EB355}
+		{1838AF86-C90D-4CD1-916C-A61C1847B126} = {7B5B8265-0C18-4F1B-8BE6-011C7EF50893}
+		{AA1510C2-3D28-462E-A0AF-0C0607D75C68} = {1F51D844-17BD-472F-B61B-3CF68CF29B33}
+	EndGlobalSection
+EndGlobal

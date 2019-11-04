@@ -1,0 +1,122 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="ControleFuncionarios.WEB.AreaRestrita.Templates.Layout" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>ASControl</title>
+
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../Content/bootstrap-theme.min.css" rel="stylesheet" />
+
+    <script src="../../Scripts/jquery-1.9.1.min.js"></script>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+
+    
+</head>
+<body class="container">
+    
+      <nav class="navbar  navbar-inverse" style="margin-top: -10px;">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active">
+                        <a href="/AreaRestrita/Home.aspx"><h3>ASControl</h3></a> </li>
+                          
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <form id="form2" runat="server">
+        <div>
+
+            <div class="well well-sm" style="margin-top: -20px;">
+
+                <div id="navbar2" class="navbar">
+                <ul class="nav navbar-nav">
+                    <li class="active">
+                        <a href="/AreaRestrita/Home.aspx" class="text-muted">Página Inicial</a></li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle text-muted" data-toggle="dropdown" role="button"
+                            aria-haspopup="true" aria-expanded="false">Tarefas<span class="caret"></span></a>
+
+                        <ul class="dropdown-menu">
+                            <li><a href="/AreaRestrita/CadastroTarefa.aspx">Cadastrar</a></li>
+                            <li><a href="/AreaRestrita/ConsultaTarefa.aspx">Consultar</a></li>                            
+                        </ul>
+                    </li>
+
+                   <li class="dropdown">
+                        <a href="#" class="dropdown-toggle text-muted" data-toggle="dropdown" role="button"
+                            aria-haspopup="true" aria-expanded="false">Cargo<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/AreaRestrita/ConsultaCargo.aspx">Consultar</a></li>
+                            <li><a href="/AreaRestrita/CadastroCargo.aspx">Cadastrar</a></li>      
+                        </ul>
+                    </li>
+
+                     <li class="dropdown">
+                        <a href="#" class="dropdown-toggle text-muted" data-toggle="dropdown" role="button"
+                            aria-haspopup="true" aria-expanded="false">Perfil<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/AreaRestrita/CadastroPerfil.aspx">Cadastrar</a></li>
+                            <li><a href="/AreaRestrita/ConsultaPerfil.aspx">Consultar</a></li>      
+                        </ul>
+                    </li>
+
+                    <li class="active">
+                        <a href="/AreaRestrita/GerarRelatorios.aspx" class="text-muted">Relatórios</a></li>
+
+                    <li class="active">
+                        
+                    </li>
+
+                    <li class="active">
+                        
+                    </li>
+                                 
+                </ul>
+            </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    <br />
+                    
+                    <asp:Label ID="lblNomeCol" runat="server" Font-Size="Larger" />
+                    <br />
+                    <asp:Label ID="lblMatricula" runat="server" Font-Size="Larger" />
+                    <br />
+                    <br />
+                    <asp:Button ID="btnLogout" runat="server"
+                        Text="Sair" CssClass="btn btn-danger" 
+                        OnClick="btnLogout_Click"/> 
+             
+                
+                </div>
+
+
+
+
+
+                <div class="col-md-9">
+                    
+                    <asp:ContentPlaceHolder ID="ContentPrincipal" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+        </div>
+    </form>
+    
+       
+    
+</body>
+    
+</html>
